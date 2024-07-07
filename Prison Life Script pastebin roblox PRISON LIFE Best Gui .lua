@@ -1,4 +1,4 @@
--- find more powerfull verified and New Scripts here : https://script-pastebin.com
+,kill-- find more powerfull verified and New Scripts here : https://script-pastebin.com
 
 loadstring(game:HttpGet("https://ghostbin.co/paste/rvu44/raw"))()
 
